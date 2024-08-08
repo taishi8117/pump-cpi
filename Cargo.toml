@@ -1,0 +1,8 @@
+[package]
+name = "pump-cpi"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anchor-gen = "0.3.1"
+anchor-lang = "0.30.1"
